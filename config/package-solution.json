@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "flight-yield-manager-client-side-solution",
+    "id": "923bf7e3-c2ca-4e02-908b-566c04985c2b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/flight-yield-manager.sppkg"
+  }
+}

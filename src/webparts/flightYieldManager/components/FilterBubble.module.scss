@@ -1,0 +1,10 @@
+.filterBubbleSelectWrap {
+    display: inline-block;
+    vertical-align: top;
+    width: calc(33% - 50px);
+    padding: 25px;
+
+    * {
+        color: #eee;
+    }
+}
